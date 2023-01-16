@@ -2,14 +2,14 @@
 
 (www.patika.dev)
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
+Bu repo [Kodluyoruz]https://kodluyoruz.org/tr/kodluyoruz/ Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
 
-!(https://raw.githubusercontent.com/berattepebasi/kodluyoruzilkrepo/main/figures/fotograf.png)
+[image](https://github.com/dogukankoc/kodluyoruzilkrepo/blob/main/Figure/Capture.PNG?raw=true)
 
 --------------------------------------------------------------------------------------
 ## Installation
 
-(https://github.com/1serkanduran/kodluyoruzilkrepo)
+https://github.com/1serkanduran/kodluyoruzilkrepo
 
 --------------------------------------------------------------------------------------
 
